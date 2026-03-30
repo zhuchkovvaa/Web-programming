@@ -74,13 +74,7 @@ class Program
         {
             Console.WriteLine($"Validation error: {ex.Message}");
         }
-        finally
-        {
-            Console.WriteLine("\nProgram completed.");
-        }
     }
-            
-Конта
 ```
 ---
 
