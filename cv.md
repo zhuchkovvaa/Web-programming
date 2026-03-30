@@ -26,7 +26,6 @@
 ## About Me
 I am a second-year student at **Belarusian-Russian University**, studying **Software Engineering** at the Faculty of Electrical Engineering.
 I am a cheerful, outgoing, and goal-oriented person.
-My English level is A2.
 My main goal is to become a skilled software engineer. I also really want to work in a large office with a big and friendly team.
 
 ---
